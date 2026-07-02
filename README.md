@@ -34,8 +34,3 @@ A replicated file system implementing the Raft consensus protocol, built in Pyth
 **[Mithya — GPU Scheduling Research](<!-- ADD: repo link -->)**
 Research into GPU sharing systems (spatial/temporal scheduling, PTX rewriting, driver-level interposition) drawing on Tally, LithOS, Orion.
 
----
-
-### GitHub Stats
-
-![Dakshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshina13&show_icons=true&theme=transparent&hide_border=true)
